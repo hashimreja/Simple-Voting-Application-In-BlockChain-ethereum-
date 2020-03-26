@@ -1,0 +1,7 @@
+To run the application
+
+1 . npm i -g install ganache -cli (globally and run it from a console don't stop it or change the port --8545)
+2. npm i -g truffle framework
+2. cd app
+3. npm i  (install all default node modules)
+4. npm run dev
